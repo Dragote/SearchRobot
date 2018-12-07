@@ -20,7 +20,7 @@ docker container ps -l
 docker stop CONTAINER ID
 docker start CONTAINER ID
 ```
-7.  Open SearchRobot.bat file
+7.  Open `SearchRobot.bat` file
 8.  Done!
  
 ### Future launches
@@ -33,6 +33,6 @@ docker container ps -l
 ```sh
 docker start CONTAINER ID
 ```
-4.  Open SearchRobot.bat file
+4.  Open `SearchRobot.bat` file
 5.  Done!
 
