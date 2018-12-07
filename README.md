@@ -28,7 +28,7 @@ docker start CONTAINER ID
 ```sh
 docker container ps -l
 ```
-2.  Get CONTAINER ID
+2.  Get `CONTAINER ID`
 3.  Write in CMD
 ```sh
 docker start CONTAINER ID
