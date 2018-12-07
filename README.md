@@ -1,5 +1,5 @@
-### SearchRobot
-# First setup and launch
+# SearchRobot
+#### First setup and launch
 
 1.  Open CMD in .../ProjectSearchRobot/
 2.  Write in CMD
@@ -23,7 +23,7 @@ docker start CONTAINER ID
 7.  Open SearchRobot.bat file
 8.  Done!
  
-# Future launches
+### Future launches
 1.  Write in CMD
 ```sh
 docker container ps -l
