@@ -37,7 +37,10 @@ docker start CONTAINER ID
 5.  Done!
 
 Data for connection to data base:
+
 Port: 4306
-uset: root
+
+user: root
+
 password: mypass
 
