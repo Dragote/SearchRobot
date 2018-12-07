@@ -36,3 +36,8 @@ docker start CONTAINER ID
 4.  Open `SearchRobot.bat` file
 5.  Done!
 
+Data for connection to data base:
+Port: 4306
+uset: root
+password: mypass
+
